@@ -1,5 +1,5 @@
 # RAG_QnA
-# Demo Link `https://www.youtube.com/watch?v=Gu9o3LzWlF0`
+# Demo Link https://www.youtube.com/watch?v=Gu9o3LzWlF0
 ## Instructions to run the app locally.
 
 ### Clone the repo.
