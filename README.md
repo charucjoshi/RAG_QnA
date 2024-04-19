@@ -10,6 +10,7 @@
 ### Install requirements.
     pip install -r requirements.txt
 ### Ensure typesense server is running on port 8108.
+### Place the pdfs you want to use for retrieval inside the content folder.
 ### Run the application.
     chainlit run app.py
 
